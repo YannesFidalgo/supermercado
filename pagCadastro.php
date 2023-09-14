@@ -10,7 +10,7 @@
     <div class="logo">
         <span>Gran Merc`s Company</span>
     </div>
-    <form action="post" id="cad">
+    <form action="pagLogin.php" method="$_POST" id="cad">
         <h1>Cadastre-se</h1>
         <input type="text" placeholder="Digite seu nome">
         <input type="text" placeholder="Digite seu endereço">

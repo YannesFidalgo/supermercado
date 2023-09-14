@@ -10,7 +10,7 @@
     <div class="logo">
         <span>Mercado</span>
     </div>
-    <form action="post">
+    <form action="" method="">
         <h1>Faça login</h1>
         <input type="email" placeholder="Digite seu email">
         <input type="password" placeholder="Digite sua senha">
